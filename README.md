@@ -25,11 +25,10 @@ A Python-based job scraping tool that collects real-time fresher and entry-level
 
 fresher-job-scraper/
 ├── job_scraper.py
-└── fresher_jobs_last_1_hour.csv
-
-
+└── fresher_jobs_last_1_hour.csv 
 
 ---
+
 
 ## Setup Instructions
 
